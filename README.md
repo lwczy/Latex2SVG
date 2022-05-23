@@ -1,5 +1,7 @@
 # Latex2SVG
-在线Latex转SVG
+
+在线Latex转SVG [https://lwczy.github.io/Latex2SVG/](https://lwczy.github.io/Latex2SVG/)
+
 纯静态页面，直接用Nginx即可
 
 # 实现方法
